@@ -1,0 +1,6 @@
+@HOW7_HostAddress = http://localhost:5119
+
+GET {{HOW7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

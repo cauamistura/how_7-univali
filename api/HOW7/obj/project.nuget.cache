@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHRlkM6bRZhUd9ig9QaKeiQXtAiKHb0D2JZHXNg+S4Unsi5qzeUx2wWgel+L+t/qKXDOyjEwoA5g9g0mfkEJZQ==",
+  "dgSpecHash": "ZG2L7bDt8VqN/ZCR2xQeM/eoI1Y57h6R9aLn8OFmfFNHc8oQN3cBTsdkUnWYQZTxCxo1Qm2oME87Kdl8vbtbGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\HOW7\\HOW7.csproj",
+  "projectFilePath": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\api\\HOW7\\HOW7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cauam\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\cauam\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

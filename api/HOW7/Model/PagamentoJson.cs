@@ -8,6 +8,6 @@ namespace HOW7.Model
 
         public decimal Valor { get; set; }
 
-        public ImovelJson? Imovel { get; set; }        
+        public ImovelJson? Imovel { get; set; }
     }
 }

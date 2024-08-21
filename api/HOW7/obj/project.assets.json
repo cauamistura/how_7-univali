@@ -2029,11 +2029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\HOW7\\HOW7.csproj",
+      "projectUniqueName": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\api\\HOW7\\HOW7.csproj",
       "projectName": "HOW7",
-      "projectPath": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\HOW7\\HOW7.csproj",
+      "projectPath": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\api\\HOW7\\HOW7.csproj",
       "packagesPath": "C:\\Users\\cauam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\HOW7\\obj\\",
+      "outputPath": "C:\\Users\\cauam\\OneDrive\\Área de Trabalho\\univali\\how_7-univali\\api\\HOW7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cauam\\AppData\\Roaming\\NuGet\\NuGet.Config",

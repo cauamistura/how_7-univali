@@ -1,5 +1,6 @@
 ﻿using HOW7.Connection;
 using HOW7.Model;
+using HOW7.Model.Response;
 
 namespace HOW7.Services
 {

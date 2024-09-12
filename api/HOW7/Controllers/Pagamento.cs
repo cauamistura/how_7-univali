@@ -31,5 +31,13 @@ namespace HOW7.Controllers
             var resultado = new PagamentoPorMesAnoService().Executar();
             return resultado.ToArray();
         }
+
+        [HttpGet]
+        [Route("PercentualPorTipoImovel")]
+        public IEnumerable<TotalVendasPorTipoImovelJson> PercentualPorTipoImovel()
+        {
+            var resultado = new TotalVendasPorTipoImovelService().Executar();
+            return resultado.ToArray();
+        }
     }
 }

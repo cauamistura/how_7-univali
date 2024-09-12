@@ -34,9 +34,9 @@ namespace HOW7.Controllers
 
         [HttpGet]
         [Route("PercentualPorTipoImovel")]
-        public IEnumerable<TotalVendasPorTipoImovelJson> PercentualPorTipoImovel()
+        public IEnumerable<PagamentosVendasPorTipoImovelJson> PercentualPorTipoImovel()
         {
-            var resultado = new TotalVendasPorTipoImovelService().Executar();
+            var resultado = new PagamentoVendasPorTipoImovelService().Executar();
             return resultado.ToArray();
         }
     }

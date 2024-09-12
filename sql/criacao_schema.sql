@@ -8,7 +8,7 @@ USE `how7` ;
 -- Table `how7`.`TipoImoveis`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `how7`.`TipoImoveis` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL auto_increment,
   `nome` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`id`))
 ;
@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS `how7`.`TipoImoveis` (
 -- Table `how7`.`Imoveis`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `how7`.`Imoveis` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL auto_increment,
   `tipo` INT NOT NULL,
   `descricao` VARCHAR(100) NOT NULL,
   PRIMARY KEY (`id`, `tipo`),
@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS `how7`.`Imoveis` (
 -- Table `how7`.`Pagamentos`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `how7`.`Pagamentos` (
-  `id` INT NOT NULL,
+  `id` INT NOT NULL auto_increment,
   `imovel` INT NOT NULL,
   `data` DATETIME NOT NULL,
   `valor` DECIMAL NOT NULL,
